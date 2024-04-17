@@ -12,7 +12,14 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 0 1rem;
+}
+
+header ul{
     list-style: none;
+    margin-right: 2rem;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
 }
 
 .conteudo {
@@ -87,7 +94,7 @@ header {
 }
 
 .psychic {
-    background-color: gray;
+    background-color: rgb(133, 74, 145);
 }
 
 .dark {
